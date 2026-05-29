@@ -1,3 +1,5 @@
+<img width="100%" src="https://github.com/ronaldosilva-nas/ronaldosilva-nas/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner_20260529_132847_0000.png?raw=true">
+
 # 👋 Olá, eu sou Ronaldo Silva
 
 💻 Desenvolvedor Java Backend & Web em evolução.
