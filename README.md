@@ -22,6 +22,8 @@
 
 ## 🚀 Tecnologias
 
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -38,19 +40,29 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldosilva-nas&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldosilva-nas&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldosilva-nas&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldosilva-nas&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
 ## 🔥 Sequência de commits
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ronaldosilva-nas&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -60,7 +72,7 @@
 🔹 API REST com Spring Boot  
 🔹 Projeto Angular Fullstack  
 🔹 Website Responsivo  
-🔹 CRUD Java + SQL
+🔹 CRUD Java + SQL  
 
 ---
 
@@ -68,5 +80,5 @@
 
 📧 Email: silvaronaldo7662@gmail.com
 
-💼 LinkedIn:
-www.linkedin.com/in/ronaldo-silva-nascimento
+💼 LinkedIn:  
+https://www.linkedin.com/in/ronaldo-silva-nascimento
