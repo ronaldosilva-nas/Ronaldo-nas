@@ -42,15 +42,15 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronaldo-nas&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldosilva-nas&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldo-nas&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldosilva-nas&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Sequência de commits
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ronaldo-nas&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ronaldosilva-nas&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
