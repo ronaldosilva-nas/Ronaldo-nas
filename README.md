@@ -22,8 +22,6 @@
 
 ## 🚀 Tecnologias
 
-<div align="center">
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -40,18 +38,14 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldosilva-nas&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldosilva-nas&layout=compact&theme=tokyonight" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldosilva-nas&show_icons=true&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldosilva-nas&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -72,7 +66,7 @@
 🔹 API REST com Spring Boot  
 🔹 Projeto Angular Fullstack  
 🔹 Website Responsivo  
-🔹 CRUD Java + SQL  
+🔹 CRUD Java + SQL
 
 ---
 
