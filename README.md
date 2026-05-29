@@ -43,9 +43,11 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldosilva-nas&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldosilva-nas&layout=compact&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ronaldosilva-nas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ronaldosilva-nas&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
 ---
